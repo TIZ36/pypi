@@ -206,3 +206,24 @@ for k in empty_dic.keys():
     print(k)
 for v in empty_dic.values():
     print(v)
+
+
+promt = "hi, welcome to car rent-zz"
+user_input = input(promt)
+print(user_input)
+
+# input a num and while it
+
+v = input("please input a num: \n")
+vi = int(v)
+while  vi > 0:
+    print("loop", vi)
+    vi -= 1
+
+msg = ''
+while msg != 'q':
+    msg = input('input cmd: ')
+
+
+
+
