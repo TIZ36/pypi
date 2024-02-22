@@ -1,2 +1,0 @@
-# pypi
-python_learning
